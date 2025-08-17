@@ -29,9 +29,7 @@
 
 - 🎓 **Student Behavior Analysis** under NEP 2020 policies
 - 📊 **Stock Price Prediction** using LSTM
-- 📰 **Fake News Detection** (NLP + TF-IDF + ML models)
-- 🏥 **Disease Prediction System** using symptom-based classification
-- 🌾 **Soil Quality Android App** with real-time sensor data
+
 
 
 ---
