@@ -28,7 +28,7 @@
 (Automatically updated every 12 hours)  
 
 <!-- PROJECTS:START -->
-_No projects yet — check back soon!_
+- [Student-Behavior-Analysis-under-NEP-2020-Policies](https://github.com/AshuMLTech/Student-Behavior-Analysis-under-NEP-2020-Policies) ⭐ 1
 <!-- PROJECTS:END -->
 
 ---
