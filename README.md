@@ -2,7 +2,6 @@
 
 🚀 Final Year B.Tech (CSE) Student | 🧠 Python & ML Enthusiast | 📈 Aspiring Data Scientist
 
-
 ---
 
 ## 🔧 Technologies & Tools
@@ -25,12 +24,12 @@
 
 ---
 
-## 💼 Projects
+## 💼 Latest Projects  
+(Automatically updated every 12 hours)  
 
-- 🎓 **Student Behavior Analysis** under NEP 2020 policies
-- 📊 **Stock Price Prediction** using LSTM
-
-
+<!-- PROJECTS:START -->
+_No projects yet — check back soon!_
+<!-- PROJECTS:END -->
 
 ---
 
@@ -42,17 +41,15 @@
 
 ## 📈 GitHub Stats
 
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashutoshyadav&show_icons=true&theme=radical)
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshuMLTech&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-yadav-18a0101a1/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutoshyadav17/)  
 📧 sidhart7860@gmail.com
 
 ---
 
 > “Continuous learning and building is the key to impactful innovation.”
-
-
