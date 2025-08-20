@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 👈 this line gives push access
 
     steps:
       - name: Checkout Repo
